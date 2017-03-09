@@ -9,4 +9,6 @@ dependencies:
 
 test:
   override:
+    - ls
+    - pwd
 
